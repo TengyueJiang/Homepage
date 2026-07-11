@@ -106,7 +106,6 @@ MiLab@Westlake University, Research Assistant — supervised by Prof. Donglin Wa
   <div class="contact-card qr">
     <img src="https://raw.githubusercontent.com/TengyueJiang/Homepage/master/images/wechat.png" alt="WeChat QR code">
     <div class="contact-title">WeChat</div>
-    <div>jty19822763301</div>
   </div>
 
   <div class="contact-card links">
@@ -114,15 +113,12 @@ MiLab@Westlake University, Research Assistant — supervised by Prof. Donglin Wa
     <div class="contact-links">
       <a class="contact-link" href="https://scholar.google.com/citations?user=JRzpQUQAAAAJ&hl=zh-CN" target="_blank" rel="noopener noreferrer">
         <strong>Google Scholar</strong>
-        <span>https://scholar.google.com/citations?user=JRzpQUQAAAAJ&hl=zh-CN</span>
       </a>
       <a class="contact-link" href="https://github.com/TengyueJiang" target="_blank" rel="noopener noreferrer">
         <strong>GitHub</strong>
-        <span>https://github.com/TengyueJiang</span>
       </a>
       <a class="contact-link" href="https://www.xiaohongshu.com/user/profile/66b2367e000000001d03360f" target="_blank" rel="noopener noreferrer">
         <strong>Rednote</strong>
-        <span>https://www.xiaohongshu.com/user/profile/66b2367e000000001d03360f</span>
       </a>
     </div>
   </div>
