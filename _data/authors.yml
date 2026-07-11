@@ -20,7 +20,7 @@ Name2 Name2:
 tengyue:
   name        : "Tengyue Jiang"
   bio         : "Undergraduate student at ECUST and RA at Scalelab@SJTU"
-  avatar      : "logo.jpg"
+  avatar      : "https://raw.githubusercontent.com/TengyueJiang/Homepage/master/images/logo.jpg"
   email       : "jiangtengyue66@gmail.com"
   googlescholar : "https://scholar.google.com/citations?user=JRzpQUQAAAAJ&hl=zh-CN"
   github      : "TengyueJiang"
