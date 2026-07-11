@@ -16,3 +16,11 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+tengyue:
+  name        : "Tengyue Jiang"
+  bio         : "Undergraduate student at ECUST and RA at Scalelab@SJTU"
+  avatar      : "logo.jpg"
+  email       : "jiangtengyue66@gmail.com"
+  googlescholar : "https://scholar.google.com/citations?user=JRzpQUQAAAAJ&hl=zh-CN"
+  github      : "TengyueJiang"
