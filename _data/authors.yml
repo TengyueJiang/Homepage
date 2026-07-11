@@ -24,3 +24,11 @@ tengyue:
   email       : "jiangtengyue66@gmail.com"
   googlescholar : "https://scholar.google.com/citations?user=JRzpQUQAAAAJ&hl=zh-CN"
   github      : "TengyueJiang"
+
+tengyue_publications:
+  name        : "Tengyue Jiang"
+  bio         : "Publications"
+  avatar      : "https://raw.githubusercontent.com/TengyueJiang/Homepage/master/images/portrait.png"
+  email       : "jiangtengyue66@gmail.com"
+  googlescholar : "https://scholar.google.com/citations?user=JRzpQUQAAAAJ&hl=zh-CN"
+  github      : "TengyueJiang"
