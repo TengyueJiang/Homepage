@@ -21,7 +21,7 @@ Hi! I am Tengyue Jiang (Chinese name: 姜腾跃), a undergraduate student at ECU
 
 MiLab@Westlake University, Research Assistant — supervised by Prof. Donglin Wang.
 
-2025.09 ![Shanghai Jiao Tong University](https://global.sjtu.edu.cn/en/assets/images/logo_white_130.png)
+2025.09 ![Shanghai Jiao Tong University](https://en.sjtu.edu.cn/favicon.ico)
 
 [ScaleLab@SJTU](https://scalelab-sjtu.github.io/), Research Assistant — supervised by Prof. Yao Mu.
 
