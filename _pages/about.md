@@ -104,7 +104,7 @@ MiLab@Westlake University, Research Assistant — supervised by Prof. Donglin Wa
 
 <div class="contact-cards">
   <div class="contact-card qr">
-    <img src="/images/wechat.png" alt="WeChat QR code">
+    <img src="{{ '/images/wechat.png' | relative_url }}" alt="WeChat QR code">
     <div class="contact-title">WeChat</div>
     <div>jty19822763301</div>
   </div>
